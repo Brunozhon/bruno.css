@@ -1,0 +1,21 @@
+body, h1, h2, h3, h4, h5, h6, p {
+  font: Arial, Helvetica, sans-serif;
+}
+.bruno-red {
+  color: red;
+}
+.bruno-orange {
+  color: orange;
+}
+.bruno-yellow {
+  color: yellow;
+}
+.bruno-green {
+  color: green;
+}
+.bruno-blue {
+  color: blue;
+}
+.bruno-purple {
+  color: purple;
+}
