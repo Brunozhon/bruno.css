@@ -1,6 +1,8 @@
+/* Default font */
 body, h1, h2, h3, h4, h5, h6, p {
   font: Arial, Helvetica, sans-serif;
 }
+/* Colors */
 .bruno-red {
   color: red;
 }
@@ -18,4 +20,56 @@ body, h1, h2, h3, h4, h5, h6, p {
 }
 .bruno-purple {
   color: purple;
+}
+.bruno-pink {
+  color: pink;
+}
+.bruno-white {
+  color: white;
+}
+.bruno-black {
+  color: black;
+}
+.bruno-grey {
+  color: grey;
+}
+.bruno-gray {
+  color: gray;
+}
+/* Backgrounds */
+.bruno-bg-red {
+  background: red;
+}
+.bruno-bg-orange {
+  background: orange;
+}
+.bruno-bg-yellow {
+  background: yellow;
+}
+.bruno-bg-green {
+  background: green;
+}
+.bruno-bg-blue {
+  background: blue;
+}
+.bruno-bg-purple {
+  background: purple;
+}
+.bruno-bg-pink {
+  background: pink;
+}
+.bruno-bg-white {
+  background: white;
+}
+.bruno-bg-black {
+  background: black;
+}
+.bruno-bg-grey {
+  background: grey;
+}
+.bruno-bg-gray {
+  background: gray;
+}
+.bruno-bg-brown {
+  background: brown;
 }
